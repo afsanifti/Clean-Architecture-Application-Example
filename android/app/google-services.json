@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390830779188",
+    "project_id": "clean-archi-edu",
+    "storage_bucket": "clean-archi-edu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390830779188:android:91007680dd1453e0299361",
+        "android_client_info": {
+          "package_name": "com.cleanedu.clean_arch_examples"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQj_IYogvvW1SRPd-15fzWvAZs0HX4mb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
